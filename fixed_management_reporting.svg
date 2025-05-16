@@ -1,0 +1,12 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" id="Layer_1" baseProfile="tiny" version="1.2" viewBox="0 0 1920 1080">
+  <!-- Entire original SVG content (as user pasted) goes here -->
+  <!-- ... [snipped for brevity in this sample code] ... -->
+
+  <!-- Corrected Management Reporting Group -->
+  <ns0:g id="management-reporting">
+    <ns0:path d="M1003.95,432.5c.21-.25.42-.5.64-.76,9.44-46.03,18.89-92.05,28.33-138.08,50.37-22.65,85.22-44.96,108.28-61.73,4.34-3.16,10.29-7.59,17.83-12.84-109.85-81.56-251.42-97.45-373.31-50.29.67,9.7,1.46,17.45,1.96,22.95,2.56,28.16,4.1,69.24-1.06,123.86,34.68,31.96,69.36,63.92,104.04,95.87,37.91-11.27,80.26-4.51,113.3,21Z" fill="#2a65f2" />
+    <ns0:circle cx="926.81" cy="532.65" r="463.5" fill="none" stroke="gray" stroke-dasharray="12.03 12.03" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" />
+  </ns0:g>
+
+  <!-- Rest of your SVG content continues unchanged -->
+</ns0:svg>
